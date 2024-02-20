@@ -3,7 +3,7 @@ title: "ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2023
+date: 2023-10-17
 venue: 'ICLR'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://openreview.net/pdf?id=FYZCHEtt6H0)'
 citation: 'Jianye HAO, Pengyi Li, Hongyao Tang, et al. ERL-Re $^ 2$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation[C]//The Eleventh International Conference on Learning Representations. 2022.'
