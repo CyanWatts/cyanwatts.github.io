@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 - Undergrad student, Jilin University, 2018-2022
-- MS student, Tianjin University, 2022-2025
+- MS student, Tianjin University, 2022-Present
 
 
 ## Reasearch Interest 
