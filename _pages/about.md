@@ -1,36 +1,15 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
-- My name is Xian Fu. Now I’m a 2nd year MS student of the College of Intelligence and Computing of Tianjin University, supervised by Prof. Jianye Hao.
+My name is Xian Fu. Now I’m a 2nd year MS student of the College of Intelligence and Computing of Tianjin University, supervised by Prof. Jianye Hao. Before that, I get my Bachelor Degree from Jilin University at 2022.
+My research interests lie in Reinforcement Learning, Evolutionary Reinforcement Learning, Representation Learning, MLLMs/LLMs for Robotics, and so on.
 
+You can find my CV here: [Xian Fu's Curriculum Vitae](../assets/Xian Fu.pdf).
 
-## Education
-- Undergrad student, Jilin University, 2018-2022
-- MS student, Tianjin University, 2022-Present
-
-
-## Reasearch Interest 
-- Reinforcement Learning
-- Representation Learning
-- MLLMs/LLMs for Robotics
-
-
-## Publications
-- see [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
-
-
-
-<!--
-## Books I'm learning
-- **Reinforcement Learning** _an introduction_<br>
-　　　by Richard Sutton and Andrew Barto    
-- **Multiagent Systems**  _Algorithmic, Game-Theoretic, and Logical Foundations_<br>
-　　　by Yoav Shoham
--->
+For my publications, please see my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
