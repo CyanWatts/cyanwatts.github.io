@@ -13,4 +13,4 @@ My research interests lie in Reinforcement Learning, Evolutionary Reinforcement 
 
 You can find my CV here: [Xian Fu's Curriculum Vitae](../assets/Xian Fu_cv1.pdf).
 
-For my publications, please see my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
+For my publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
