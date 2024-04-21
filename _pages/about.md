@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xian Fu. Now I’m a 2nd year MS student of the College of Intelligence and Computing of Tianjin University, supervised by Prof. [Jianye Hao](http://www.icdai.org/jianye.html). Before that, I get my Bachelor Degree from Jilin University, Tang Aoqing Honor Program (Computer Science) at 2022.
+My name is Xian Fu. Now I’m a 2nd year MS student of the College of Intelligence and Computing of Tianjin University, supervised by Prof. [Jianye Hao](http://www.icdai.org/jianye.html). Before that, I get my Bachelor Degree from Jilin University, Tang Aoqing Honors Program (Computer Science) at 2022.
 
 My research interests lie in Reinforcement Learning, Evolutionary Reinforcement Learning, Representation Learning, MLLMs/LLMs for Robotics, and so on.
 
