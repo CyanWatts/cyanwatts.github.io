@@ -30,7 +30,7 @@ ICML 2024
 
  
 
-**Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey****  [[Paper]](https://arxiv.org/pdf/2401.11963)
+**Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey**  [[Paper]](https://arxiv.org/pdf/2401.11963)
 
 
 arXiv preprint 2024
