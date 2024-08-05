@@ -16,7 +16,7 @@ My research interests lie in Reinforcement Learning, Evolutionary Reinforcement 
 For my publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
 --> 
 
-### Publications & Preprints
+## Publications & Preprints
 
 **What can VLMs Do for Zero-shot Embodied Task Planning?**  [[Paper]](https://openreview.net/pdf?id=OE5WKiNPyx)
 
