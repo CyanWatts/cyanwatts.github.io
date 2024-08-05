@@ -16,11 +16,9 @@ My research interests lie in Reinforcement Learning, Evolutionary Reinforcement 
 For my publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
 --> 
 
-# Publications & Preprints
+## Publications & Preprints
 
 **What can VLMs Do for Zero-shot Embodied Task Planning?**  [[Paper]](https://openreview.net/pdf?id=OE5WKiNPyx)
-
-X Fu, M Zhang, HAO Jianye, P Han, H Zhang, L Shi, H Tang
 
 ICML 2024 Workshop on LLMs and Cognition
 
@@ -28,15 +26,12 @@ ICML 2024 Workshop on LLMs and Cognition
 
 **EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search**  [[Paper]](https://openreview.net/pdf?id=75Hes6Zse4)
 
-Pengyi Li, Jianye Hao, Hongyao Tang, Xian Fu, Yan Zheng
-
 ICML 2024
 
  
 
 **Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey****  [[Paper]](https://arxiv.org/pdf/2401.11963)
 
-Pengyi Li, Jianye Hao, Hongyao Tang, Xian Fu, Yan Zheng, Ke Tang
 
 arXiv preprint 2024
 
@@ -44,15 +39,12 @@ arXiv preprint 2024
  
 **RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution**  [[Paper]](https://proceedings.mlr.press/v202/li23i/li23i.pdf)
 
-Pengyi Li, Jianye Hao, Hongyao Tang, Yan Zheng, Xian Fu
 
 ICML 2023
 
  
 
 **ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation**  [[Paper]](https://arxiv.org/pdf/2210.17375)
-
-Jianye Hao, Pengyi Li, Hongyao Tang, Yan Zheng, Xian Fu, Zhaopeng Meng
 
 ICLR 2023 & DRL Workshop, NeurIPS 2022
 
