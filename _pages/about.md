@@ -11,9 +11,9 @@ My name is Xian Fu. Now I’m a 3rd year MS student of the College of Intelligen
 
 My research interests lie in Reinforcement Learning, Evolutionary Reinforcement Learning, Representation Learning, MLLMs/LLMs for Robotics, and so on. In addition to these areas, I am interested in interdisciplinary projects in robotics, automation, and other AI-driven fields.
 
-**I am currently seeking a PhD opportunity for Spring/Fall 2026 to further my research in these areas. If my background aligns with your interests, or if you'd like to discuss potential collaboration, please feel free to contact me at fuxian1224@gmail.com.**
+<!-- **I am currently seeking a PhD opportunity for Spring/Fall 2026 to further my research in these areas. If my background aligns with your interests, or if you'd like to discuss potential collaboration, please feel free to contact me at fuxian1224@gmail.com.**
 
-<!-- You can find my CV here: [Xian Fu's Curriculum Vitae](../assets/Xian Fu_cv2.pdf).
+ You can find my CV here: [Xian Fu's Curriculum Vitae](../assets/Xian Fu_cv2.pdf).
 
 For my publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
 --> 
