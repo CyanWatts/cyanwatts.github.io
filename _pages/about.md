@@ -60,7 +60,7 @@ ICLR 2023 & NeurIPS 2022 DRL Workshop
 
 
 # Research Services
-NeurIPS                       2025
+NeurIPS                2025
 
 ICML 2025 Workshop World Models
 
@@ -70,5 +70,5 @@ ICML 2024 Workshop on LLMs and Cognition
 # Invited Talks
 2024.10      **Enhancing Multimodal Large Language Models on Demonstrative Multi-Image Instructions**
 
-             ACM International Conference on Multimedia 2024, Melbourne, VIC, Australia
+              ACM International Conference on Multimedia 2024, Melbourne, VIC, Australia
 
