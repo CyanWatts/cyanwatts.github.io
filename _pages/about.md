@@ -23,38 +23,38 @@ For my publications, please see my [Google Scholar](https://scholar.google.com/c
 
 **Enhancing Multimodal Large Language Models on Demonstrative Multi-Image Instructions**  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3688994)
 
- ACM Multimedia 2024
+*ACM Multimedia 2024*
 
 
 **What can VLMs Do for Zero-shot Embodied Task Planning?**  [[Paper]](https://openreview.net/pdf?id=OE5WKiNPyx)
 
-ICML 2024 Workshop on LLMs and Cognition
+*ICML 2024 Workshop on LLMs and Cognition*
 
  
 
 **EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search**  [[Paper]](https://openreview.net/pdf?id=75Hes6Zse4)
 
-ICML 2024
+*ICML 2024*
 
  
 
 **Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey**  [[Paper]](https://arxiv.org/pdf/2401.11963)
 
 
-IEEE TEVC 2024
+*IEEE TEVC 2024*
 
  
  
 **RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution**  [[Paper]](https://proceedings.mlr.press/v202/li23i/li23i.pdf)
 
 
-ICML 2023
+*ICML 2023*
 
  
 
 **ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation**  [[Paper]](https://arxiv.org/pdf/2210.17375)
 
-ICLR 2023 & NeurIPS 2022 DRL Workshop
+*ICLR 2023 & NeurIPS 2022 DRL Workshop*
 
 
 
