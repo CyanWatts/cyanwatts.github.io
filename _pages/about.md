@@ -18,6 +18,7 @@ My research interests lie in (Evolutionary) Reinforcement Learning,  (Multimodal
 For my publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MXwELckAAAAJ)
 --> 
 
+
 # Publications & Preprints
 
 **Enhancing Multimodal Large Language Models on Demonstrative Multi-Image Instructions**  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3688994)
@@ -54,4 +55,17 @@ ICML 2023
 **ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation**  [[Paper]](https://arxiv.org/pdf/2210.17375)
 
 ICLR 2023 & NeurIPS 2022 DRL Workshop
+
+
+
+
+# Research Services
+NeurIPS                       2025
+ICML 2025 Workshop World Models
+ICML 2024 Workshop on LLMs and Cognition
+
+
+# Invited Talks
+2024.10      **Enhancing Multimodal Large Language Models on Demonstrative Multi-Image Instructions**
+             ACM International Conference on Multimedia 2024, Melbourne, VIC, Australia
 
