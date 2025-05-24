@@ -60,11 +60,12 @@ For my publications, please see my [Google Scholar](https://scholar.google.com/c
 
 
 # Research Services
-NeurIPS       &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2025
+NeurIPS Reviewer      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2025
 
-ICML 2025 Workshop World Models
+ICML 2025 Workshop World Models Reviewer     
 
-ICML 2024 Workshop on LLMs and Cognition
+
+ICML 2024 Workshop on LLMs and Cognition Reviewer      
 
 
 # Invited Talks
