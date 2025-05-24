@@ -70,4 +70,4 @@ ICML 2024 Workshop on LLMs and Cognition
 # Invited Talks
 2024.10      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Enhancing Multimodal Large Language Models on Demonstrative Multi-Image Instructions**
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; *ACM International Conference on Multimedia 2024, Melbourne, VIC, Australia*
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; *ACM International Conference on Multimedia 2024, Melbourne, VIC, Australia*
