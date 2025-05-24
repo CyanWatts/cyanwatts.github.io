@@ -72,3 +72,28 @@ ICML 2024 Workshop on LLMs and Cognition
 
               ACM International Conference on Multimedia 2024, Melbourne, VIC, Australia
 
+# Academic Service
+
+RLC                     2024, 2025
+NeurIPS                 2021 - 2025 (*Top Reviewer Award at NeurIPS 2022*)
+ICLR                    2022 - 2025 (*Highlighted Reviewer Award at ICLR 2022*)
+ICML                    2021 - 2025
+AAAI                    2021 - 2025
+IJCAI                   2021 - 2024
+AAMAS                   2021 - 2024
+Transactions on Machine Learning Research (TMLR)
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+
+
+
+# Invited Talks
+
+2025.03                 **RL in the Era of Large Models**
+                        *2025 IEEE International Conference on Industrial Technology*
+
+2024.10                 **Where is the Road to Flawless RL? — Unsolved Problems and New 
+                        Approaches**
+                        *Google DeepMind, Discovery Team London*
+
+
