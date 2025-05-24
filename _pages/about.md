@@ -59,7 +59,7 @@ For my publications, please see my [Google Scholar](https://scholar.google.com/c
 
 
 
-# Research Services
+# Academic Services
 NeurIPS Reviewer      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2025
 
 ICML 2025 Workshop World Models Reviewer     
